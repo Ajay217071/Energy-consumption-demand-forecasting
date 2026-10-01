@@ -82,8 +82,6 @@ energy-consumption-demand-forecasting/
 │   └── PJME_hourly.csv
 ├── notebooks/
 │   └── Energy_Consumption_Demand_Forecasting.ipynb
-├── reports/
-├── src/
 ├── .gitignore
 ├── LICENSE
 ├── README.md
